@@ -1,0 +1,3 @@
+D:\Visual Studio 2019\ChatApp\obj\Debug\ChatApp.njsproj.AssemblyReference.cache
+D:\Visual Studio 2019\ChatApp\obj\Debug\ChatApp.njsproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\ChatApp\bin\Microsoft.NodejsTools.WebRole.dll
